@@ -1,2 +1,2 @@
 # TinDog
-Tinder for yout dog
+Tinder for your dog
